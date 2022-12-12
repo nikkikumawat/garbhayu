@@ -1,0 +1,115 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.garbhayu {
+    padding: 0px 177px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo img {
+    width: 55px;
+    padding: 5px 54px;
+}
+
+.flex {
+    padding-top: 22px;
+}
+
+.flex a {
+    text-decoration: none;
+    font-size: 16px;
+    padding: 5px 12px;
+}
+
+.flex a span {
+    border: 1px solid black;
+    padding: 2px 2px;
+    margin-right: 43px;
+    margin-left: 10px;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    padding: 6px 38px;
+    margin: 0 38px;
+}
+
+.menu ul li {
+    list-style: none;
+    margin: 0 10px;
+}
+
+.para1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 36px 89px;
+}
+
+.text {
+    width: 52%;
+    padding: 30px 73px;
+}
+
+.text p {
+    font-size: 16px;
+}
+
+.text h2 {
+    padding-bottom: 10px;
+    font-weight: normal;
+}
+
+.text h2 span{
+    font-weight: bold;
+}
+
+.text p {
+    padding: 10px 0;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.text p i {
+    font-size: 14px;
+    padding-left: 7px;
+}
+
+
+.prag img {
+    width: 120%;
+    height: 235px;
+}
+
+.Services {
+    text-align: center;
+}
+
+.Services h2{
+    padding-bottom: 20px;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+.imgs{
+    padding-bottom: 70px;
+}
+.img1 p{
+    text-align: center;
+}
+.imgs .img1 img{
+    width: 60px;
+    height: 60px;
+    margin: 14px 60px;
+    border-radius: 30px;
+}
